@@ -1,4 +1,4 @@
-package com.example.stub002
+package co.mingtech.stub002
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
