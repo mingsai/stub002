@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:stub002/db_test.dart';
 
-void main() => testSqliteDb(); //runApp(); //runApp(MyApp());
+void main() => testSqliteDb();
+// `void main() => runApp(MyApp());
 
 // class MyApp extends StatelessWidget {
 //   // This widget is the root of your application.
